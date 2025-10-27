@@ -5,7 +5,6 @@ Clinical Trials Success & Dropout Analysis
 ==========================================
 ------------------------------------------
 
-########################################################################
 Welcome to the *Clinical Trials Success and Dropout Analysis* repository
 
 This project is a in-depth exploration of the factors influencing the success and discontinuation of clinical trials. This work blends **healthcare analytics** and **data visualization** to uncover insights that can improve research efficiency, patient retention, and overall trial success.
